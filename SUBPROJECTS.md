@@ -4,11 +4,10 @@ This repository acts as a central hub to manage and organize all compliance-rela
 
 ## Sub-Projects
 
-| Name               | Description                      | Status      | Repository                                                                 |
-|--------------------|----------------------------------|-------------|----------------------------------------------------------------------------|
-| GDPR Checker       | Automated GDPR compliance checks | Active      | [gdpr-checker](https://github.com/davidcockson-compliance/gdpr-checker)    |
-| Audit Log Analyzer | Tool to analyze audit logs       | In Progress | [audit-log-analyzer](https://github.com/davidcockson-compliance/audit-log-analyzer) |
-| Policy Generator   | Generate policy documents        | Planned     | [policy-generator](https://github.com/davidcockson-compliance/policy-generator)     |
+| Name                                      | Description                                | Status   | Repository                                                                                      |
+|-------------------------------------------|--------------------------------------------|----------|-------------------------------------------------------------------------------------------------|
+| Digital Transformation Roadmap for a SaaS Company | Strategic roadmap for digital transformation in a SaaS environment | Active   | [digital-transformation-roadmap](https://github.com/davidcockson-compliance/digital-transformation-roadmap) |
+| Policy Generator                          | Generate policy documents                  | Planned  | [policy-generator](https://github.com/davidcockson-compliance/policy-generator)                 |
 
 ---
 
